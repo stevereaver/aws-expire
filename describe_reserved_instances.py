@@ -2,7 +2,6 @@
 # --------------------------------------------------------------------------
 # Name:         describe_reserved_instances.py
 # By:           Stephen Bancroft
-# Email:        bancroft@tt.com.au
 # Date:         13/02/19
 #
 # Desc:         The python will hit AWS API and check the state 
