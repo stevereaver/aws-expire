@@ -3,7 +3,6 @@
 # --------------------------------------------------------------------------
 # Name:         zfs cron
 # By:           Stephen Bancroft
-# Email:        stevereaver@gmail.com
 # Date:         13/02/19
 #
 # Desc:         This script is called from zabbix's cron and is used to 
